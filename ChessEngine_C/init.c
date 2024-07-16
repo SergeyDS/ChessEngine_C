@@ -181,8 +181,8 @@ void InitSq120To64() {
 
 void AllInit() {
 	InitSq120To64();
-	/*InitBitMasks();
-	InitHashKeys();
+	InitBitMasks();
+	/*InitHashKeys();
 	InitFilesRanksBrd();
 	InitEvalMasks();
 	InitMvvLva();

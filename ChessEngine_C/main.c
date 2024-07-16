@@ -12,7 +12,9 @@
 int main(int argc, char *argv[]) {
 
 	AllInit();
+	
 
+	
 	S_BOARD pos[1];
 	S_SEARCHINFO info[1];
 	info->quit = FALSE;
